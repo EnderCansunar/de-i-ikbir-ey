@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hasta1deneme", "WindowsFormsApp5\hasta1deneme.csproj", "{8DB291E3-819F-4F6B-8594-7C719787607F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hasta1deneme", "hasta1deneme.csproj", "{8DB291E3-819F-4F6B-8594-7C719787607F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4400D721-EEA3-48E2-8C10-0EEA5C76C95C}
+		SolutionGuid = {B88DD2BD-E34E-4D43-A5B8-0DD6F00D9062}
 	EndGlobalSection
 EndGlobal
